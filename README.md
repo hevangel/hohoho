@@ -1,6 +1,6 @@
 # HoHoHo — Holy House of Horace
 
-A fictional, satirical religious worldbuilding website devoted to gift, joy, and wonder.
+The website of the Holy House of Horace, a religious community devoted to gift, joy, and wonder.
 
 Site: https://holy-house-of-horace.epicbass1.chatgpt.site (currently owner-private; requires ChatGPT sign-in).
 
@@ -42,7 +42,7 @@ The initial website import captures Sites source revision `f9686987f1bd2971c0aef
 
 ## Editorial rules
 
-Preserve supplied scripture in its original archaic English. Clearly distinguish original canon from newly written expansions. Membership certificates are fictional souvenirs; form values remain in page memory and are not submitted or stored.
+Preserve supplied scripture in its original archaic English. Clearly distinguish original canon from newly written expansions. Membership certificate form values remain in page memory and are not submitted or stored.
 
 ## License
 

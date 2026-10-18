@@ -8,3 +8,4 @@
 - GitHub pushes do not auto-deploy. Use the Sites workflow to publish the same reviewed source, retaining the current audience. Public access requires the owner's explicit approval.
 - No credentials, tokens, local workflow logs, or scratch files belong in commits.
 - Run node --check dist/app.js and node --check dist/canon.js after JavaScript edits. Preview relevant layout and interactions when changing the UI.
+- Present HoHoHo as a religious community. Do not reintroduce satire or fictional-project labels. Retain source labels that distinguish original canon from later expansions.
