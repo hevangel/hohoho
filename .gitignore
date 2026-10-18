@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# HoHoHo: dist is the buildless website source and must be versioned.
+!dist/
+!dist/**
+node_modules/
+.sites-local/
+.sites-runtime/
+*.tar.gz
